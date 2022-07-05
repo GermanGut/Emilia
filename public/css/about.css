@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+=======
+body.about{
+    background-image: url('./images/emilia-about.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+body.about {
+    overflow: hidden;}
+
+.about__main__section{
+    margin-left: 30px;
+}
+
+.about__main__section h3{
+    font-size: 26px;
+    color: #44a391;
+    font-weight: 400;
+
+}
+    
+.about__main__section p{
+    color: #44a391;
+}
+
+>>>>>>> parent of 97001f1 (about finish)
