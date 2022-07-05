@@ -1,0 +1,9 @@
+header a {
+    text-transform: uppercase;
+    line-height: 30px;
+}
+
+.header__vertical{
+    margin-left: 30px;
+}
+
